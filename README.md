@@ -1,3 +1,3 @@
 # tictactoe-ruby
 
-A ruby game in tic-tac-toe. Using a tree/node algorithm, the tic tac toe game always chooses the optimal move. Try to beat it. :) 
+A tic-tac-toe game in Ruby. Using a tree/node algorithm, the computer's AI always chooses the optimal move. Try to beat it. :) 
