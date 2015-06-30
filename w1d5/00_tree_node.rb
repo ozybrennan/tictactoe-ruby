@@ -114,7 +114,6 @@ class KnightPathFinder
         positions_queue.push(node)
       end
     end
-    # p root_position.children
     root_position
   end
 
@@ -123,7 +122,3 @@ class KnightPathFinder
   end
 
 end
-
-k1 = KnightPathFinder.new([0,0])
-p k1.find_path([7, 6])
-p k1.find_path([6, 2])
